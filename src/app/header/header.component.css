@@ -1,0 +1,69 @@
+.fixed-layout .topbar {
+    width: 100%;
+}
+.logo {
+    padding: 13px 0;
+  }
+  .company-info {
+    padding: 39px 0;
+  }
+  .company-info-item {
+    float: left;
+    overflow: hidden;
+    width: 50%;
+}
+.header-icon {
+    float: left;
+    width: 18%;
+}
+.header-info {
+    float: left;
+    width: 82%;
+}
+.company-info .company-info-item:nth-child(2) {
+    padding-left: 5%;
+  }
+  .header-info h6 {
+    font-family: montserrat;
+    line-height: 15px;
+    margin-bottom: 5px;
+  }
+  .header-info p {
+    color: #606060;
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 12px;
+    margin-bottom: 0;
+  }
+  .header-search button {
+    float: left;
+    height: 30px;
+    width: 18%;
+}
+.header-search input {
+    border: 1px solid #1f223e;
+    box-shadow: none;
+    color: #303030;
+    float: left;
+    font-weight: 300;
+    height: 30px;
+    margin-bottom: 0;
+    padding-left: 15px;
+    width: 82%;
+  }
+  .header-search input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    color: #303030;
+    opacity: 1;
+  }
+  .header-search input::-moz-placeholder { /* Firefox 19+ */
+    color: #303030;
+    opacity: 1;
+  }
+  .header-search input:-ms-input-placeholder { /* IE 10+ */
+    color: #303030;
+    opacity: 1;
+  }
+  .header-search input:-moz-placeholder { /* Firefox 18- */
+    color: #303030;
+    opacity: 1;
+  }

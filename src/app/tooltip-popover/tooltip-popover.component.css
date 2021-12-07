@@ -1,0 +1,31 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700);
+.card .card-subtitle {
+    font-weight: 300;
+    margin-bottom: 15px;
+    color: #6c757d;
+}
+code {
+    font-size: 87.5%;
+    color: #e83e8c;
+    word-break: break-word;
+    background-color: white;
+}
+.card .card-title {
+    position: relative;
+    font-weight: 500;
+}
+
+.btn{
+    text-transform: capitalize;
+    border-radius: 5px;
+    display: inline-block;
+font-weight: 400;
+text-align: center;
+vertical-align: middle;
+}
+.btn-secondary {
+    border-color: #dee2e6;
+}
+h4{
+    color: black;
+}

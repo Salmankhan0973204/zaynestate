@@ -1,0 +1,109 @@
+element.style {
+}
+.form-group {
+    margin-bottom: 25px;
+}
+.form-group {
+    margin-bottom: 1rem;
+}
+* {
+    outline: none;
+}
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.card {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 0px solid transparent;
+    border-radius: 0px;
+}
+body {
+    margin: 0;
+    overflow-x: hidden;
+    font-size: 14px;
+    font-weight: 300;
+}
+body {
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    font-size: 0.875rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #edf1f5;
+}
+:root {
+    --blue: rgba(131,19,58,1);
+    --indigo: #6610f2;
+    --purple: #ab8ce4;
+    --pink: #e83e8c;
+    --red: #e46a76;
+    --orange: #fb9678;
+    --yellow: #fec107;
+    --green: #00c292;
+    --teal: #20c997;
+    --cyan: #01c0c8;
+    --white: #fff;
+    --gray: #6c757d;
+    --gray-dark: #343a40;
+    --blue: rgba(131,19,58,1);
+    --indigo: #6610f2;
+    --purple: #ab8ce4;
+    --pink: #e83e8c;
+    --red: #e46a76;
+    --orange: #fb9678;
+    --yellow: #fec107;
+    --green: #00c292;
+    --teal: #20c997;
+    --cyan: #01c0c8;
+    --white: #fff;
+    --gray: #6c757d;
+    --primary: #fb9678;
+    --secondary: #f8f9fa;
+    --success: #00c292;
+    --info: rgba(131,19,58,1);
+    --warning: #fec107;
+    --danger: #e46a76;
+    --light: #f8f9fa;
+    --dark: #343a40;
+    --cyan: #01c0c8;
+    --purple: #ab8ce4;
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 992px;
+    --breakpoint-xl: 1200px;
+    --font-family-sans-serif: "Poppins", sans-serif;
+    --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+html {
+    font-family: sans-serif;
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}

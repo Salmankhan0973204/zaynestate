@@ -1,0 +1,38 @@
+/* You can add global styles to this file, and also import other style files */
+.boxed-layout .wrapper {
+    box-shadow: -3px 0 50px -2px rgba(0, 0, 0, 0.14);
+    margin: auto;
+    position: relative;
+    width: 1240px;
+}
+.boxed-layout .sticky {
+    left: auto;
+    margin: auto;
+    width: 1240px;
+}
+.call-to-bg {
+    position: relative;
+}
+.call-to-bg:before,
+.call-to-bg:after {
+    content: "";
+    height: 100%;
+    position: absolute;
+    top: 0;
+}
+.call-to-bg:before {
+    background: #95c41f none repeat scroll 0 0;
+    left: 0;
+    margin-left: -100px;
+    -webkit-transform: skewX(-30deg);
+    transform: skewX(-30deg);
+    width: 31%;
+}
+.call-to-bg:after {
+    background: rgba(31, 34, 62, 0.8) none repeat scroll 0 0;
+    height: 100%;
+    right: 0;
+    width: 100%;
+    z-index: -1;
+}
+

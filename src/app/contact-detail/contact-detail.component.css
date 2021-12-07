@@ -1,0 +1,121 @@
+#Real{
+     color: rgba(131,19,58,1);
+    font-weight: 500;
+    padding-right: 1rem;
+    padding-left: 3px;
+   
+}     
+.page-titles {
+    background: #fff;
+    padding: 14px 10px;
+    margin: 0 -25px 25px -25px;
+}
+.btn-info {
+    color: #fff;
+    background-color: rgba(131,19,58,1);
+    border-color: rgba(131,19,58,1);
+    margin-bottom: 10px;
+    margin-top: 0;
+      
+}
+.right-aside {
+  padding: 20px;
+  margin-left: 250px; }
+
+.contact-list td {
+  vertical-align: middle;
+  padding: 25px 10px; }
+  .contact-list td img {
+    width: 30px; }
+
+.list-style-none {
+  margin: 0px;
+  padding: 0px; }
+  .list-style-none li {
+    list-style: none;
+    margin: 0px; }
+    .list-style-none li.box-label a {
+      font-weight: 500; }
+    .list-style-none li.divider {
+      margin: 10px 0;
+      height: 1px;
+      background: #e9ecef; }
+    .list-style-none li a {
+      padding: 15px 10px;
+      display: block;
+      color: #212529; }
+      .list-style-none li a:hover {
+        color: #fb9678; }
+      .list-style-none li a span {
+        float: right; }
+
+.social-profile {
+  text-align: center;
+  background: rgba(7, 10, 43, 0.8); }
+
+.profile-tab li a.nav-link,
+.customtab li a.nav-link {
+  border: 0px;
+  padding: 15px 20px;
+  color: #212529; }
+  .profile-tab li a.nav-link.active,
+  .customtab li a.nav-link.active {
+    border-bottom: 2px solid #fb9678;
+    color: #fb9678; }
+  .profile-tab li a.nav-link:hover,
+  .customtab li a.nav-link:hover {
+    color: #fb9678; }
+
+    .radius {
+    border-radius: 0.25rem;
+}
+
+.img-responsive {
+    max-width: 100%;
+    height: auto;
+}
+
+.profiletimeline .sl-left img {
+    max-width: 40px;
+}
+.img-circle {
+    border-radius: 100%;
+}
+.profiletimeline .sl-left {
+    float: left;
+    margin-left: -60px;
+    z-index: 1;
+    margin-right: 15px;
+}
+.profiletimeline {
+    position: relative;
+    padding-left: 40px;
+    margin-right: 10px;
+    border-left: 1px solid #e9ecef;
+    margin-left: 30px;
+}
+.btn-circle {
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+}
+.profiletimeline .sl-date {
+    margin-left:5px;
+    font-size: 12px;
+    color: #6c757d;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    color: #fb9678;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.card-body {
+   
+    padding: 1.25rem;
+}
